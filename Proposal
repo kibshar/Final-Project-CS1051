@@ -1,0 +1,51 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+Chatbot Professor Rosen
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+Drawing inspiration from this project https://data-flair.training/blogs/python-chatbot-project/ in which they created a chatbot that had healthcare applicatoins, I would use a similar method to create a chatbot that could be used to teach python instead. 
+
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+I would like to make a generative based chatbot,  but I think in this case a retrieval based chatbot makes the most sense, and essentially I would take all the major topics  that we learned this semester and make a chatbot that would be able to teach them to a student that wants to learn them. 
+Bascially a chatbot Professor Rosen. The goal is that the ChatBot is able to:
+
+1. Explain major concepts discussed in course i.e for loops, if statements, Regular expressions, IDE's explain basics on how to use IDLE, pycharm and Visual Studio, file reading, etc
+2. Provide examples of working code for each of the major topics
+3. Be able to answer some common questions
+For the execution I plan to use the source code from the project I drew inspiration from to make the basic UI, then for the information in the chatbot I would use the material learned from class. Ideally, the hope is that someone would get the same information out of this chatbot that I obtained from attending a college level course, and be able to learn it at their own pace.
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+NA
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+NA
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+A good outcome would be that the basic UI is done and that the chatbot has the information, examples, and is basically able to teach the following topics:
+1. For loops
+2. If statements
+3. Regular Expressions
+4. Turtles
+5. IDEs
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+A better outcome would be that ontop of the above features I want to customize the UI such that if the chatbot gives an example problem and the student returns a correct answer then the UI changes ie color change, confetti, etc. 
+I also want to make it so that ontop of the above topics I can cover specific problems i.e Monte Carlo approximations, how to answer impossible questions like how many trees are there in wisconsin. These problems will take more time to setup because I do not want to chatbot to just throw out a block of text. What I want is for it to go through these problems step by step, and if at any step the student does not understand then I want the chatbot to go into an alternative kind of dialogue path that is focused on a more in depth explanation on the topic.
+Furthermore, it would be good if I could make the chatbot separate the topics by modules and have an assessment per module that the student has to fill out and until they get every question correct or give up and have the chatbot explain the wrong answers. Then after completing every module on the chatbot a congratualotory message shows up on the screen.
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+This is ambitious I think because I have no idea how to do it, but I want to make it so that the chatbot acts like the runestone assignments where you can run code in the chatbot and it will return an output. I don't even know if this is possible so I know it would be a lot of work just figuring out how to implement it which is why it is a hope that i can actually do it.
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+The next steps are either to find the source code for a customizable chatbot UI or figure out how to make the UI myself from scratch. Then from there it becomes a simple case of making a dialogue path for the bot to respond to with predetermined inputs. A lot of the work will likely be going back through the previous lectures so that I can adequately have the chatbot teach each of the topics. For the actual coding side of it what I need to figure out is how to make the chatbot work like the runestone assignments where it can run code from the textbox if thats even possible. Then I have to figure out how I can make the chatbot UI change in real time in response to input from the user. I would also like the chatbot to be able to send images and videos if possible as supplementary so if a student inputs a dialogue option like "I do not understand" or "I need help" or something like that the chatbot can send supplementary material that the student can read inside the UI.
