@@ -1,0 +1,29 @@
+# Status Report
+
+#### Your name
+
+Ibshar Khandakar
+
+#### Your section leader's name
+
+Joanne Nichols
+
+#### Project title
+
+Chatbot Professor Rosen
+
+***
+
+Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
+
+#### What have you done for your project so far?
+
+I made a GUI and created 2 modules for learning python so far for loops and if statements
+
+#### What have you not done for your project yet?
+I still need to finish 4 other modules/create teaching material for them, try to make the GUI change in real time to responses from questions, figure out if its possible to run python in the GUI
+
+
+#### What problems, if any, have you encountered?
+
+The biggest issue I'm dealing with right now is that I want to code the teaching modules as functions, but the issue is that when you would naturally require a response to something like a question you can't ask for an input. Thats primarily because its a chatbot and its always taking input so i have been trying to get around that by making each input i need to be prompted for in a specific way but it honestly makes it very confusing and hard to follow the code. If i can even manage to code the other 4 modules without the whole thing exploding I would consider that a win,
