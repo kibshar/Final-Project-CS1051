@@ -30,3 +30,7 @@ Working by myself
 ## Do you have any questions of your own?
 
 I would prefer to work on Idea 1 but if you think its too much work to do in this time frame then I would be ok with Idea 2 which is less conceptual work but probably more tedious work
+
+YOUTUBE LINK FOR FINAL PROJECT
+
+https://youtu.be/rr88jnWRj6o
