@@ -31,6 +31,10 @@ Working by myself
 
 I would prefer to work on Idea 1 but if you think its too much work to do in this time frame then I would be ok with Idea 2 which is less conceptual work but probably more tedious work
 
+
+## Include anything else you want to say, such as the difficulties you faced or overcame, the things you learned, what you enjoyed, etc, in a readme file. We are interested in what challenges you encountered in coding and if you found a way to overcome them or go around them. We understand that it may not be possible to complete your original vision;  we are interested in how you responded in the face of adversity.  We are interested in the journey, not the destination.
+I actually made 3 completely different versions of this project the first time I tried to make a compiler from scratch so that I could add it to the text box of the bot and have it run code, in the end that ended up exploding the bot and a weeks worth of work. In my second version I tried to make an autogenerative based bot that would be able to determine the correctness of open ended answers, but that also ended up being a failure because I was unable to get it to recognize variations of the same correct answer as correct. In the end the final version of the bot is a rule based bot which is very much so on the rails and simply gets the job it needs to get done. It is not as pretty or as complicated as i wanted it to be but at the end of the day I cant be too upset since it does extactly what i want it to do.
+
 YOUTUBE LINK FOR FINAL PROJECT
 
 https://youtu.be/rr88jnWRj6o
